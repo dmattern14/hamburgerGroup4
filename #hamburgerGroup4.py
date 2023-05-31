@@ -3,8 +3,6 @@
 # Description: Hamburger Door Dash (program to track how many hamburgers each customer eats)
 
 
-
-
 import random
 
 
