@@ -26,7 +26,7 @@ class Order:
 class Person:
    def __init__(self):
        self.customer_name = self.randomName()
-    def randomName(self):
+   def randomName(self):
        # Create list of 9 names for random selection
        asCustomers = ["Jefe", "El Guapo", "Lucky Day", "Ned Nederlander", "Dusty Bottoms", "Harry Flugleman", "Carmen", "Invisible Swordsman", "Singing Bush"]
        return random.choice(asCustomers)
